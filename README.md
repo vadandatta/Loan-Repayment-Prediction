@@ -133,7 +133,7 @@ Top features from XGBoost:
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-````
+   ````
 
 2. Download dataset and place it in the data/ folder.
 
